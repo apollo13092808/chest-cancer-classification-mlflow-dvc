@@ -1,8 +1,8 @@
 import os
+from cnnClassifier import logger
 import zipfile
 from cnnClassifier.entity.config_entity import DataIngestionConfig
 
-from cnnClassifier import logger
 import gdown
 
 
